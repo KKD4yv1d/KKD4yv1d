@@ -11,4 +11,4 @@
 > [![Linguagens mais usadas | Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkd4yv1d&icon_color=5EABFF&title_color=5EABFF&text_color=FFFFFF&bg_color=0D1017&border_color=0D1017)](https://github.com/anuraghazra/github-readme-stats)
 
 > Esse é o repositório que eu mais vou trabalhar
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkd4yv1d&repo=bedwars&icon_color=5EABFF&title_color=5EABFF&text_color=FFFFFF&bg_color=0D1017&border_color=0D1017)](https://github.com/anuraghazra/github-readme-stats)
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkd4yv1d&repo=bedwars-plugin-nukkit&icon_color=5EABFF&title_color=5EABFF&text_color=FFFFFF&bg_color=0D1017&border_color=0D1017)](https://github.com/anuraghazra/github-readme-stats)
